@@ -1,1 +1,1 @@
-Website for *midnight's simulacra*.
+Website for [*midnight's simulacra*](https://midnightssimulacra.com).
