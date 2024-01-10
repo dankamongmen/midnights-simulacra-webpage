@@ -12,3 +12,8 @@
   text-align: center;
   margin: 0;
 }
+
+.bind {
+  max-width: 50em;
+  text-align: justify;
+}
