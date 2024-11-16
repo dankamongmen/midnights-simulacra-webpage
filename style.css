@@ -18,6 +18,11 @@
   text-align: justify;
 }
 
+.bindtight {
+  max-width: 25em;
+  text-align: justify;
+}
+
 .wide {
   max-width: 50em;
 }
